@@ -21,7 +21,12 @@ public class MethodSelectonProgram {
         boolean firstSearch = true;
         boolean secondSearch = true;
         boolean thirdSearch = true;
-        while()
+        int firstSearchIndex = 0;
+        int secondSearchIndex = 0;
+        while(firstSearch = true)
+        {
+            
+        }
     }
 
     public static void main(String[] args) {
